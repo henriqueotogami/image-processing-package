@@ -1,19 +1,23 @@
-# package_name
+# Image Processing Package
 ## Karina Kato
-### Aula de criação de pacotes de processamento de imagens em Python
+### Digital Innovation One
+#### Aula de criação de pacotes de processamento de imagens em Python
+##### 22/08/2020
 
 Description. 
+
 The package package_name is used to:
-	Processing:
-		- Histogram matching 
-		- Structural similarity
-		- Resize image
-	Utils:
-		- Read image
-		- Save image
-		- Plot image
-		- Plot result
-		- Plot histogram
+
+- Processing:
+	- Histogram matching;
+	- Structural similarity;
+	- Resize image;
+- Utils:
+	- Read image;
+	- Save image;
+	- Plot image;
+	- Plot result;
+	- Plot histogram;
 
 ## Installation
 
