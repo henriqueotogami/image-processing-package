@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 - [x] Instalção do Pacote
 
-Use o gerenciador de pacotes [pip](pip install -i https://test.pypi.org/simple/ image-processing-test) para instalar image_processing-test
+Use o gerenciador de pacotes ```pip install -i https://test.pypi.org/simple/ image-processing-test ```para instalar image_processing-test
 
 ```bash
 pip install image-processing-test
@@ -71,6 +71,7 @@ pip install image-processing-test
 from image-processing-test.processing import combination
 combination.find_difference(image1, image2)
 ```
+<img width="auto" src="https://github.com/HenriqueMAP/image-processing-package/blob/master/image-processing-test.png?raw=true">
 
 ## Autor (quem hospedou o projeto no Test Pypi)
 Henrique Matheus Alves Pereira
